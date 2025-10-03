@@ -1,4 +1,8 @@
-# rn-teste
+# rn-app
+
+<img width="451" height="867" alt="image" src="https://github.com/user-attachments/assets/defcc76f-b4e4-4cdc-bbd9-eca90249b894" />
+<img width="472" height="894" alt="image" src="https://github.com/user-attachments/assets/44752037-6aaf-4bd1-8a46-82829559a8cc" />
+<img width="428" height="868" alt="image" src="https://github.com/user-attachments/assets/59d8c704-e5e8-47bf-9591-f454e65b43b0" />
 
 This is a simple React Native project using Expo, demonstrating fetching and displaying posts from an API with navigation between screens.
 
